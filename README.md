@@ -44,7 +44,7 @@ export PATH="$HOME/.local/bin:$PATH"
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/websearch.git
+git clone https://github.com/m4s1t4/webSearch-Tools.git
 cd websearch
 ```
 
