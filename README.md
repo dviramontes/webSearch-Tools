@@ -44,8 +44,8 @@ export PATH="$HOME/.local/bin:$PATH"
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/websearch.git
-cd websearch
+git clone https://github.com/m4s1t4/webSearch-Tools.git
+cd webSearch-Tools
 ```
 
 3. Create and activate a virtual environment with uv:
